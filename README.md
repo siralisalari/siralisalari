@@ -1,4 +1,4 @@
-###**Hello**, I'm Ali salari
+###Hello, I'm Ali salari
 About Me:
 Welcome to my GitHub profile! I'm currently pursuing my Master's degree in Bioinformatics, building upon my foundation in Computer Science from my Bachelor's studies. With a passion for both science and technology, I'm dedicated to leveraging computational methods to unravel the mysteries of biological systems.
 <!--
